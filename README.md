@@ -33,26 +33,4 @@ This project is a web application that features a login page with dummy authenti
 - Start the development server: `npm start`
 - Open your browser and go to:  `http://localhost:3000`
 
-## Project Structure
-your-repo-name/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── DataGrid
-│   │   ├──── DataGrid.js
-│   │   ├── Layout
-│   │   
-│   │
-│   ├── pages/
-│   │   └── data-grid
-│   │
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── package.json
-└── README.md
+
